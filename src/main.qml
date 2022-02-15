@@ -19,7 +19,7 @@
 import QtQuick 2.9
 import org.asteroid.controls 1.0
 import org.asteroid.utils 1.0
-import Nemo.KeepAlive 1.1
+import Nemo.KeepAlive 1.2
 
 Application {
     centerColor: "#00A698"
